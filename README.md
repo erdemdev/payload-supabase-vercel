@@ -1,8 +1,1 @@
-# blank
-
-blank
-
-## Attributes
-
-- **Database**: mongodb
-- **Storage Adapter**: localDisk
+Troubleshooting S3 Storage Issues
